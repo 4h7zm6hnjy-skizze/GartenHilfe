@@ -1,0 +1,21 @@
+{
+  "name": "GartenHilfe",
+  "short_name": "GartenHilfe",
+  "description": "GartenHilfe – plant care, sowing, garden calendar, diseases and pests. Deutsch & English.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f8f2",
+  "theme_color": "#2f6b3b",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
